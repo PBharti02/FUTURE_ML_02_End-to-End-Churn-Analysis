@@ -70,7 +70,7 @@
 
 
 
-## Business Impact & Insights:
+## 🔦 Business Impact & Insights:
 ***Various parts of the telecom sector can utilize the dashboard to retain more customers and make the business more profitable:***
 
 -Financial Impact: They see the Total Churn Rate (27.0%) and the Total Revenue of Predicted Churners ($\$42,603.54$). This guides resource allocation, showing the financial priority of retention efforts vs. acquisition.
