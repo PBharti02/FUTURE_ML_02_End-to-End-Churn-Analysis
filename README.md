@@ -65,5 +65,5 @@ Product & Service Team: Feature Adoption & ImprovementValue Gaps: They see that 
 
 Screenshot
 -
-A peek into the dashboard:  ![Dashboard Preview]
-(https://github.com/PBharti02/FUTURE_ML_02/blob/main/Snapshot%20Of%20The%20Dashboard.png)
+A peek into the dashboard: 
+![Dashboard Preview](https://github.com/PBharti02/FUTURE_ML_02/blob/c62ee0d669de38f1407894ae85e4f3996a678389/Snapshot%20Of%20The%20Dashboard.png)
