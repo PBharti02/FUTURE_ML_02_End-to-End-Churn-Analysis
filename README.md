@@ -85,3 +85,4 @@ Screenshot
 -
 A peek into the dashboard: 
 ![Dashboard Preview](https://github.com/PBharti02/FUTURE_ML_02/blob/c62ee0d669de38f1407894ae85e4f3996a678389/Snapshot%20Of%20The%20Dashboard.png)
+![Prediction Dashboard Preview](https://github.com/PBharti02/FUTURE_ML_02_End-to-End-Churn-Analysis/blob/12acbe37c604b49ec592bac6141191dd653a3eb0/Snapshot%20of%20the%20PredictionDashboard.png)
